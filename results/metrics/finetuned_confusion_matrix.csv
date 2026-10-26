@@ -1,0 +1,7 @@
+,book,bottle,cup,keyboard,mouse,phone
+book,2,1,0,0,0,0
+bottle,0,2,1,0,0,0
+cup,1,0,1,1,0,0
+keyboard,0,0,0,2,1,0
+mouse,0,0,0,0,3,0
+phone,0,0,0,0,1,2

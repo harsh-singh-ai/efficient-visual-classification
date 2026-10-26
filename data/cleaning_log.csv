@@ -1,0 +1,264 @@
+class,filename,status,reason
+book,book_0001.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0002.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0003.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0004.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0005.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0006.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0007.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0008.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0009.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0010.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0011.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0012.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0013.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0014.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0015.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0016.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0017.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0018.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0019.jpg,excluded,Failed visual quality/class relevance inspection
+book,book_0020.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0021.jpg,excluded,Failed visual quality/class relevance inspection
+book,book_0022.jpg,excluded,Failed visual quality/class relevance inspection
+book,book_0023.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0024.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0025.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0026.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0027.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0028.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0029.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0030.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0031.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0032.jpg,excluded,Failed visual quality/class relevance inspection
+book,book_0033.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0034.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0035.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0036.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0037.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0038.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0039.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0040.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0041.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0042.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0043.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0044.jpg,selected,Passed visual inspection and selected for final dataset
+book,book_0045.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0046.jpg,not_selected,Clean candidate but not selected after balancing
+book,book_0047.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0001.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0002.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0003.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0004.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0005.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0006.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0007.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0008.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0009.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0010.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0011.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0012.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0013.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0014.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0015.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0016.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0017.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0018.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0019.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0020.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0021.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0022.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0023.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0024.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0025.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0026.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0027.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0028.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0029.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0030.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0031.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0032.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0033.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0034.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0035.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0036.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0037.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0038.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0039.jpg,excluded,Failed visual quality/class relevance inspection
+bottle,bottle_0040.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0041.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0042.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0043.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0044.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0045.jpg,selected,Passed visual inspection and selected for final dataset
+bottle,bottle_0046.jpg,not_selected,Clean candidate but not selected after balancing
+bottle,bottle_0047.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0001.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0002.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0003.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0004.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0005.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0006.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0007.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0008.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0009.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0010.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0011.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0012.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0013.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0014.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0015.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0016.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0017.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0018.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0019.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0020.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0021.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0022.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0023.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0024.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0025.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0026.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0027.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0028.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0029.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0030.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0031.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0032.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0033.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0034.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0035.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0036.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0037.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0038.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0039.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0040.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0041.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0042.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0043.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0044.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0045.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0046.jpg,excluded,Failed visual quality/class relevance inspection
+cup,cup_0047.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0048.jpg,not_selected,Clean candidate but not selected after balancing
+cup,cup_0049.jpg,selected,Passed visual inspection and selected for final dataset
+cup,cup_0050.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0001.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0002.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0003.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0004.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0005.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0006.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0007.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0008.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0009.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0010.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0011.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0012.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0013.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0014.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0015.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0016.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0017.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0018.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0019.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0020.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0021.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0022.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0023.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0024.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0025.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0026.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0027.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0028.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0029.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0030.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0031.jpg,not_selected,Clean candidate but not selected after balancing
+keyboard,keyboard_0032.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0033.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0034.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0035.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0036.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0037.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0038.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0039.jpg,selected,Passed visual inspection and selected for final dataset
+keyboard,keyboard_0040.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0041.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0042.jpg,excluded,Failed visual quality/class relevance inspection
+keyboard,keyboard_0043.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0001.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0002.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0003.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0004.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0005.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0006.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0007.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0008.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0009.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0010.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0011.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0012.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0013.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0014.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0015.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0016.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0017.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0018.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0019.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0020.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0021.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0022.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0023.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0024.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0025.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0026.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0027.jpg,excluded,Failed visual quality/class relevance inspection
+mouse,mouse_0028.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0029.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0030.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0031.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0032.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0033.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0034.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0035.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0036.jpg,not_selected,Clean candidate but not selected after balancing
+mouse,mouse_0037.jpg,selected,Passed visual inspection and selected for final dataset
+mouse,mouse_0038.jpg,not_selected,Clean candidate but not selected after balancing
+phone,phone_0001.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0002.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0003.jpg,not_selected,Clean candidate but not selected after balancing
+phone,phone_0004.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0005.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0006.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0007.jpg,not_selected,Clean candidate but not selected after balancing
+phone,phone_0008.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0009.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0010.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0011.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0012.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0013.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0014.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0015.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0016.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0017.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0018.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0019.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0020.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0021.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0022.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0023.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0024.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0025.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0026.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0027.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0028.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0029.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0030.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0031.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0032.jpg,not_selected,Clean candidate but not selected after balancing
+phone,phone_0033.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0034.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0035.jpg,excluded,Failed visual quality/class relevance inspection
+phone,phone_0036.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0037.jpg,selected,Passed visual inspection and selected for final dataset
+phone,phone_0038.jpg,selected,Passed visual inspection and selected for final dataset
