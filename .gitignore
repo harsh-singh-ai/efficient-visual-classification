@@ -16,3 +16,5 @@ results/tmp/
 
 .DS_Store
 Thumbs.db
+results/figures/*_inspection.jpg
+results/figures/dataset_visual_inspection.png
